@@ -5,3 +5,4 @@ Creazione del sito step by step:
  - scrittura paragrafi e inserimento immagini
  - aggiunta di script e link alle pagine
  - definizione stile da completare (verificare senso classi CSS)
+ - adattamento bottoni di cambio pagina
